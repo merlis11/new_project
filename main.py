@@ -6,7 +6,7 @@
 
 def print_hi(name):
     a=[3,6,7]
-    b=a.append(88)
+
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
